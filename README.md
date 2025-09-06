@@ -94,8 +94,8 @@ If you want to modify the model or retrain it on new data, use the Jupyter Noteb
 ## Screenshots
 
 ### Web App Page
-![Computer Generated ](screenshot/Computer_Generated_Prediction/.png)
-![Computer Generated ](screenshot/Human_Written_Prediction/.png)
+![Computer Generated ](screenshot/Computer_Generated_Predicted.png)
+![Computer Generated ](screenshot/Human_Written_Handwriting.png)
 
 
 
