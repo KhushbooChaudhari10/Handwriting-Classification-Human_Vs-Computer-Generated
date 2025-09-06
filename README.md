@@ -36,6 +36,7 @@ This project is a web application that uses a Convolutional Neural Network (CNN)
     pip install -r requirements.txt
     ```
 
+
 ## Usage
 
 There are two main parts to this project: retraining the model and running the prediction web application.
@@ -89,3 +90,12 @@ If you want to modify the model or retrain it on new data, use the Jupyter Noteb
 -   **Machine Learning**: TensorFlow, Keras, Scikit-learn
 -   **Data Processing**: NumPy, Pillow (PIL), OpenCV, Scikit-image
 -   **Data Visualization**: Matplotlib, Seaborn
+
+## Screenshots
+
+### Web App Page
+![Computer Generated ](screenshot/Computer_Generated_Prediction/.png)
+![Computer Generated ](screenshot/Human_Written_Prediction/.png)
+
+
+
