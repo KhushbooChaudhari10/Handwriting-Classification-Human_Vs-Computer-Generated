@@ -95,7 +95,6 @@ If you want to modify the model or retrain it on new data, use the Jupyter Noteb
 
 ### Web App Page
 ![Computer Generated ](screenshot/Computer_Generated_Predicted.png)
-![Human Written ](screenshot/Human_Writte_Handwriting.png)
 
 
 
